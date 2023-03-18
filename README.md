@@ -19,9 +19,10 @@ I am proficient in
 
 - HTML, CSS, JavaScript, TypeScript
 - React, Vue, Angular, Next.js, Nuxt.js
-- ES6/7
+- React Native, Flutter
+- ES6, ES7, ES8, ES9
 - Git, WebPack, Npm, grunt, gulp, Babel, Docker, Vagrant, etc
-- Jasmine, Mocha, Karma, etc
+- Jest, Cypress, Jasmine, Mocha, Karma, etc
 
 As a senior front end developer, focused on customer satisfaction, I manage all aspects of web development from concept to requirements definition, design, development, launch, maintenance, and user support. I enjoy the client-facing role and working closely with team members to produce high-quality deliverables.
 
