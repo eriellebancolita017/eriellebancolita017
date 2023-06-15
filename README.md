@@ -18,7 +18,7 @@ My name is Ejhay and I am an expert in front end development by React, Vue, Angu
 I am proficient in
 
 - HTML, CSS, JavaScript, TypeScript
-- React, Vue, Angular, Next.js, Nuxt.js
+- React, Vue, Angular, Next.js, Nuxt.js, Gatsby.js
 - React Native, Flutter
 - ES6, ES7, ES8, ES9
 - Git, WebPack, Npm, grunt, gulp, Babel, Docker, Vagrant, etc
