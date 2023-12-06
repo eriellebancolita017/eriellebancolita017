@@ -26,7 +26,7 @@ I am proficient in
 
 As a senior front end developer, focused on customer satisfaction, I manage all aspects of web development from concept to requirements definition, design, development, launch, maintenance, and user support. I enjoy the client-facing role and working closely with team members to produce high-quality deliverables.
 
-- 🔭 I’m currently working on Upwork (full-time freelancer)
+- 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning Solana, Rust
 
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
