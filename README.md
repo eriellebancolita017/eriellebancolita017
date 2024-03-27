@@ -19,7 +19,7 @@ I am proficient in
 
 - HTML, CSS, JavaScript, TypeScript
 - React, Vue, Angular, Next.js, Nuxt.js, Gatsby.js
-- React Native, Flutter
+- React Native, Ionic Framework, Flutter
 - Node.js, Nest.js, Laravel
 - Web3, Solidity, Rust
 - ES6, ES7, ES8, ES9
